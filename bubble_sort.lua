@@ -5,7 +5,6 @@ function make_arr()
   end
   return out
 end
-
 x = make_arr()
 local size = table.getn(x)
 local temp = {}
